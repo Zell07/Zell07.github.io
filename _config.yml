@@ -1,0 +1,10 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Zell Blog
+description: Welcome to my writeups !
+author:
+  name: Zell
+paginate: 3
+owner: Zell
+year: 2024
