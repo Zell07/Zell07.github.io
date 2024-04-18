@@ -12,8 +12,9 @@ tags: CTF, UTCTF, OSINT, CyberSecurity
     * [OSINT 1](#osint1)
     * [OSINT 2](#osint2)
     * [OSINT 3](#osint3)<br/><br/>
-
-# Osint 1<a name="osint1"></a>
+    
+<a name="osint1"></a>
+# Osint 1
 
 ## Description of the challenge :
 
@@ -88,9 +89,8 @@ When we download the pdf and open it we got the leaked document and the flag :
 
 ### Flag : utflag{discord_is_my_favorite_document_leaking_service}
 
-
-
-# Osint 2<a name="osint2"></a>
+<a name="osint2"></a>
+# Osint 2
 
 ## Description of the challenge :
 
@@ -168,8 +168,8 @@ We get the same gas pumps, the same stop and Cimarron signs.
 ### Flag : utflag{Raton,NM,87740}
 
 
-
-# Osint 3<a name="osint3"></a>
+<a name="osint3"></a>
+# Osint 3
 
 ## Description of the challenge :
 
