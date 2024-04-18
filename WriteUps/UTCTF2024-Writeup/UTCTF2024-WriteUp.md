@@ -1,4 +1,19 @@
-# Osint 1
+---
+title: UTCTF 2024 - OSINT Collection WriteUp
+author: Zell
+tags: CTF, UTCTF, OSINT, CyberSecurity
+---
+
+# UTCTF 2024 - OSINT Collection WriteUp
+
+## Table of Contents
+  
+* [**Web**](#Web)
+    * [OSINT 1](#osint1)
+    * [OSINT 2](#osint2)
+    * [OSINT 3](#osint3)<br/><br/>
+
+# Osint 1<a name="osint1"></a>
 
 ## Description of the challenge :
 
@@ -75,7 +90,7 @@ When we download the pdf and open it we got the leaked document and the flag :
 
 
 
-# Osint 2
+# Osint 2<a name="osint2"></a>
 
 ## Description of the challenge :
 
@@ -154,7 +169,7 @@ We get the same gas pumps, the same stop and Cimarron signs.
 
 
 
-# Osint 3
+# Osint 3<a name="osint3"></a>
 
 ## Description of the challenge :
 
